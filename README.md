@@ -1,7 +1,7 @@
 # Broadcast-Receiver
 
 
-Very simple broadcast receiver example
+Understand broadcast receiver by this simple broadcast receiver example
 
 
 ![](https://github.com/NikhilDhyani/Broadcast-Receiver-/blob/master/BroadcastReceiver1.PNG)
